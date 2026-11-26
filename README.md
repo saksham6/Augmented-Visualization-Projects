@@ -54,7 +54,7 @@ Imported the segmented brain from Project 1, applied object scale, removed loose
 
 ![Optimized brain mesh](Anatomical-Modeling-and-Animation/Excercise-2/Brain_segmentation_blender.png)
 
-## 4. Unity Roll-a-Ball Game
+## 4. Unity Roll-a-Brain Game
 
 **Tools:** Unity, C#, Input System, Rigidbody, NavMeshAgent, TextMeshPro
 
